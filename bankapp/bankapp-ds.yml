@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: sireeshahub1802/test:3
+        image: sireeshahub1802/test:5
         ports:
         - containerPort: 8080
         env:
